@@ -16,9 +16,9 @@ The following work was conducted on the idea that deploying drone swarms could b
 <br>
 
 ## Table of Contents
-- [Introduction](#introduction)
+- [Introduction - Context of Forest Fires and Their Impact](#introduction---context-of-forest-fires-and-their-impact)
 - [State of the Art](#state-of-the-art)
-- [Description of Technical Characteristics](#methodology)
+- [Description of Technical Characteristics](#description-of-technical-characteristics)
 
 ***
 
