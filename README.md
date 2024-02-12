@@ -1,5 +1,8 @@
+```python
 from IPython.display import IFrame
 from IPython.display import YouTubeVideo
+```
+
 
 # Application of UAVs Swarms for Real-Time Detection and Monitoring of Wildfires
 
@@ -24,7 +27,9 @@ A wildfire is an uncontrolled fire that burns in the wildland vegetation, often 
 
 Wildfire smoke is a mixture of hazardous air pollutants, such PM2.5, NO2, ozone, aromatic hydrocarbons, or lead. In addition to contaminating the air with toxic pollutants, wildfires also simultaneously impact the climate by releasing large quantities of carbon dioxide and other greenhouse gases into the atmosphere.
 
+```python
 IFrame('https://www.xprize.org/prizes/wildfire', width=800, height=450)
+```
 
 <br>
 
@@ -53,7 +58,9 @@ Despite the advancements in Unmanned Aerial Vehicle (UAV) technologies, several 
 
 
 ### 2.3 Examples of Successful Applications in Forest Wildfire Detection
+```python
 YouTubeVideo('XNF_Sddlgy4', width=800, height=500)
+```
 
 ### 2.4 AI-Detection Advances
 Research found difficulties in implementing efficient detection with Supervised Learning (SL) because these techniques need field experts to select the valuable features. On the other hand, Deep Learning (DL) algorithms can extract relevant and strong features automatically (especially CNN, Tensorflow, PyTorch).
