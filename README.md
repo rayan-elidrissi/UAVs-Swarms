@@ -46,9 +46,9 @@ AI algorithms, particularly Deep Learning (DL) techniques, are increasingly bein
 
 Our methodology is built on three core components:
 
-1. Development of a robust AI algorithm capable of processing multispectral data for early fire detection and progression modeling.
-2. Design of an adaptive swarm intelligence framework enabling a fleet of drones to efficiently cover large areas and adjust their flight patterns based on real-time data.
-3. Integration of these components into a cohesive system that can operate autonomously or in collaboration with human-led firefighting efforts.
+- Development of a robust AI algorithm capable of processing multispectral data for early fire detection and progression modeling.
+- Design of an adaptive swarm intelligence framework enabling a fleet of drones to efficiently cover large areas and adjust their flight patterns based on real-time data.
+- Integration of these components into a cohesive system that can operate autonomously or in collaboration with human-led firefighting efforts.
 
 ### 3.2 Embedded Sensors
 
