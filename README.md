@@ -4,8 +4,7 @@
 
 This project explores the application of UAV (drone) swarms for the real-time detection and monitoring of wildfires. The initiative was inspired by the XPRIZE project, which aims to address the immense damage caused by large-scale wildfires. Our approach focuses on the deployment of drone swarms as an effective strategy for the early detection and ongoing monitoring of wildfires, especially in areas where traditional methods fall short.
 
-Learn more about the XPRIZE Wildfire initiative, which aims to develop groundbreaking technologies for wildfire detection and suppression.
-[Visit the XPRIZE Wildfire website](https://www.xprize.org/prizes/wildfire)
+Learn more about the [XPRIZE Wildfire initiative](https://www.xprize.org/prizes/wildfire), which aims to develop groundbreaking technologies for wildfire detection and suppression.
 
 ## Table of Contents
 
