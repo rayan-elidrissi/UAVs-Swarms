@@ -10,13 +10,13 @@ Learn more about the [XPRIZE Wildfire initiative](https://www.xprize.org/prizes/
 
 1. [Introduction - Context of Forest Fires and Their Impact](#introduction---context-of-forest-fires-and-their-impact)
 2. [State of the Art](#state-of-the-art)
-   - [Satellite Detection](#satellite-detection)
-   - [UAVs Detection](#uavs-detection)
-   - [Examples of Successful Applications in Forest Wildfire Detection](#examples-of-successful-applications-in-forest-wildfire-detection)
-   - [AI-Detection Advances](#ai-detection-advances)
+   - [2.1 Satellite Detection](#satellite-detection)
+   - [2.2 UAVs Detection](#uavs-detection)
+   - [2.3 Examples of Successful Applications in Forest Wildfire Detection](#examples-of-successful-applications-in-forest-wildfire-detection)
+   - [2.4 AI-Detection Advances](#ai-detection-advances)
 3. [Description of Technical Characteristics](#description-of-technical-characteristics)
-   - [Methodology](#methodology)
-   - [Embedded Sensors](#embedded-sensors)
+   - [3.1 Methodology](#methodology)
+   - [3.2 Embedded Sensors](#embedded-sensors)
 
 ## 1. Introduction - Context of Forest Fires and Their Impact
 
