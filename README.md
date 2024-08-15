@@ -10,10 +10,8 @@ Learn more about the [XPRIZE Wildfire initiative](https://www.xprize.org/prizes/
 
 1. [Introduction - Context of Forest Fires and Their Impact](#introduction---context-of-forest-fires-and-their-impact)
 2. [State of the Art](#state-of-the-art)
-   - [2.1 Satellite Detection](#satellite-detection)
-   - [2.2 UAVs Detection](#uavs-detection)
-   - [2.3 Examples of Successful Applications in Forest Wildfire Detection](#examples-of-successful-applications-in-forest-wildfire-detection)
-   - [2.4 AI-Detection Advances](#ai-detection-advances)
+   - [2.1 From Satellite Detection to Drone Swarms](#from-satellite-detection-to-drone-swarms)
+   - [2.2 AI-Detection Advances](#ai-detection-advances)
 3. [Description of Technical Characteristics](#description-of-technical-characteristics)
    - [3.1 Methodology](#methodology)
    - [3.2 Embedded Sensors](#embedded-sensors)
@@ -24,19 +22,16 @@ A wildfire is an uncontrolled fire that burns in wildland vegetation, often in r
 
 ## 2. State of the Art
 
-### 2.1 Satellite Detection
+### 2.1 From Satellite Detection to Drone Swarms
 
-Satellites are a widely used tool in wildfire detection due to their ability to cover large, inaccessible areas. However, they face significant limitations, including low spatial resolution, which makes detecting smaller fires difficult. Additionally, their temporal resolution, or the frequency with which they can revisit the same area, limits their ability to provide real-time data. Environmental factors like cloud cover further hinder their effectiveness.
+Satellite Detection is effective for monitoring large, inaccessible areas, but its limitations include low spatial resolution, infrequent data updates, and susceptibility to cloud cover, making it less reliable for detecting smaller fires in real-time.
+UAVs Detection offers high-resolution, real-time data by operating at lower altitudes and dynamically adjusting to conditions. While they excel at detecting smaller fires and are unaffected by cloud cover, UAVs face challenges like limited battery life, weather sensitivity, and airspace management.
 
-### 2.2 UAVs Detection
-
-Drones, unlike satellites, can operate at lower altitudes, capturing high-resolution images that allow for the detection of smaller fires. They can also be deployed on-demand, offering real-time or near-real-time data collection. Drones are not limited by cloud cover and can adjust their flight patterns dynamically, making them highly effective for focused monitoring of high-risk areas. However, challenges like battery life, weather conditions, data transmission, and airspace management still need to be addressed.
-
-### 2.3 Examples of Successful Applications in Forest Wildfire Detection
+Together, satellites provide broad coverage, while UAVs deliver precise, on-demand monitoring, creating a more comprehensive wildfire detection strategy.
 
 You can view an example of UAVs being used in wildfire detection in this [YouTube video](https://www.youtube.com/watch?v=XNF_Sddlgy4).
 
-### 2.4 AI-Detection Advances
+### 2.2 AI-Detection Advances
 
 AI algorithms, particularly Deep Learning (DL) techniques, are increasingly being used in wildfire detection due to their ability to automatically extract relevant features from data. While traditional Supervised Learning (SL) methods require expert input to select valuable features, DL techniques like Convolutional Neural Networks (CNNs) can handle this automatically. However, these methods require large datasets and significant processing power.
 
