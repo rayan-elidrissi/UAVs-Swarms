@@ -26,6 +26,11 @@ The project requires libraries to be installed in your python environment.
 pip install
 ```
 
+## Usage
+
+```
+
+```
 
 ## Contributions
 
