@@ -58,4 +58,8 @@ Sensor fusion techniques, already used in fields like autonomous vehicle navigat
 
 ---
 
-For further details on the methodology and technical aspects, or to contribute to this project, please refer to the respective sections in this document.
+## Contributions
+---
+Contributions are welcome! Feel free to open an issue or submit a pull request.
+
+
