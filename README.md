@@ -11,6 +11,9 @@ While UAVs monitoring offers high-resolution, real-time data by operating at low
 
 While they excel at detecting smaller fires and are less affected by cloud cover, UAVs face challenges like limited battery life, weather sensitivity, and airspace management. Moreover, sensor fusion techniques, already used in fields like autonomous vehicle navigation and precision agriculture, hold promise for enhancing the accuracy and reliability of wildfire detection systems deployed on UAV platforms.
 
+## Demo
+
+
 
 ## Features
 
