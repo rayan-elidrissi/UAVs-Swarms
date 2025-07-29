@@ -23,7 +23,7 @@ This project explores how **UAV swarms**, equipped with multispectral sensors an
 | 🛰️ Satellite Imaging | Wide coverage, global availability | Low revisit rate, cloud cover issues, coarse resolution |
 | 🚁 UAV Swarms | Real-time, high-res, flexible deployment | Battery limits, weather sensitivity, coordination complexity |
 
-By integrating **AI-based coordination** and **sensor fusion**, this system maximizes the spatial and temporal resolution needed for wildfire management — especially in terrain inaccessible to humans or traditional aircraft.
+By integrating **AI-based coordination** and **sensor fusion**, this system maximizes the spatial and temporal resolution needed for wildfire management - especially in terrain inaccessible to humans or traditional aircraft.
 
 ---
 
