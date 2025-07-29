@@ -4,39 +4,51 @@ This project explores the application of UAVs swarms for real-time detection and
 
 [![Alt text](docs/XPrize.png)](https://www.xprize.org/prizes/wildfire)
 
-## From Satellites to UAVs Swarms Monitoring
+---
 
-Satellite monitoring is effective for large, inaccessible areas, but its limitations include low spatial resolution, infrequent data updates, and susceptibility to cloud cover, making it less reliable for detecting smaller fires in real-time.
-While UAVs monitoring offers high-resolution, real-time data by operating at lower altitudes and dynamically adjusting to conditions.
+## 🌍 Why This Matters
 
-While they excel at detecting smaller fires and are less affected by cloud cover, UAVs face challenges like limited battery life, weather sensitivity, and airspace management. Moreover, sensor fusion techniques, already used in fields like autonomous vehicle navigation and precision agriculture, hold promise for enhancing the accuracy and reliability of wildfire detection systems deployed on UAV platforms.
+- 🧯 Wildfires cost **billions annually**, destroy ecosystems, and claim lives.
+- 🛰 Satellite systems are **too slow or coarse** for early detection in critical scenarios.
+- 🚁 UAVs offer **agile**, **high-resolution**, and **on-demand monitoring** with real-time responsiveness.
 
-## Demo
+This project explores how **UAV swarms**, equipped with multispectral sensors and AI-based coordination, can **outperform traditional methods** in wildfire detection, mitigation, and support for emergency teams.
 
+---
 
+## 🛰 From Satellites to Smart UAV Swarms
 
-## Features
+| Monitoring Method | Pros | Cons |
+|------------------|------|------|
+| 🛰️ Satellite Imaging | Wide coverage, global availability | Low revisit rate, cloud cover issues, coarse resolution |
+| 🚁 UAV Swarms | Real-time, high-res, flexible deployment | Battery limits, weather sensitivity, coordination complexity |
 
-- Real-time wildfire detection: Instantly identifies and tracks fires using multispectral data.
-- Dynamic UAV coordination: Automatically adjusts drone flight paths for optimal coverage.
-- Scalable swarm deployment: Efficiently monitors large areas with coordinated UAVs.
-- Autonomous operation: Operates independently or with firefighters teams.
-- Interactive visualization: Displays real-time fire data through an intuitive interface.
+By integrating **AI-based coordination** and **sensor fusion**, this system maximizes the spatial and temporal resolution needed for wildfire management — especially in terrain inaccessible to humans or traditional aircraft.
 
+---
 
-## Installation
-The project requires libraries to be installed in your python environment.
+## 🧠 Core Features
 
-```
-pip install
-```
+- 🔍 **Real-Time Fire Detection**  
+  Live analysis from multispectral or thermal imagery via onboard sensors.
 
-## Usage
+- 🧭 **Dynamic UAV Coordination**  
+  Swarm logic automatically adapts to fire spread, wind, and topography.
 
-```
+- 📡 **Scalable Aerial Deployment**  
+  Swarms work in parallel across zones, ideal for vast or fragmented terrains.
 
-```
+- 🤖 **Autonomous or Hybrid Control**  
+  Supports both fully autonomous ops and firefighter-assist missions.
 
-## Contributing
+- 🌐 **Interactive Visualization Dashboard**  
+  Web-based interface to track drone feeds, fire boundaries, and alerts.
 
-Contributions are welcome! Feel free to open an issue or submit a pull request.
+---
+
+## 🛠 Installation
+
+Ensure you have Python 3.8+ installed. Then install the core dependencies:
+
+```bash
+pip install -r requirements.txt
